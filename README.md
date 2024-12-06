@@ -65,7 +65,7 @@ await prefs.remove('counter');
  
 ### Storage location by platform
 
-| Platform | SharedSessionPref | SharedPreferencesAsync/WithCache |
-| :--- | :--- |:---------------------------------|
-| Web | LocalStorage | SessionStorage                   |
+| Platform | SharedSessionPref |
+| :--- | :--- |
+| Web | SessionStorage |
  
